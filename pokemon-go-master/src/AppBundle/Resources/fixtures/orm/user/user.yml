@@ -1,0 +1,20 @@
+AppBundle\Entity\User\User:
+  john:
+    username: 'John Doe'
+    email: 'yiaeyizae@aoiuoez.com'
+    enabled: true
+    password : 'azezzaeaz'
+    last_login : '<dateTimeBetween("-200 days", "now")>'
+    level: 1
+    xp: 500
+    team : 'blue'
+  Julie:
+    username: 'Juliette'
+    email: 'yiaeyizae@aoiuoez.com'
+    enabled: true
+    password : 'azezzaeaz'
+    last_login : '<dateTimeBetween("-200 days", "now")>'
+    level: 3
+    xp: 5500
+    team : 'red'
+
